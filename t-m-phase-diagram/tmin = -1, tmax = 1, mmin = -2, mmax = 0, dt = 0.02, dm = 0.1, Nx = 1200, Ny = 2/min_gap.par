@@ -1,0 +1,12 @@
+
+            p = 1
+            q = 3
+            nx = 1200
+            ny = 2
+            tmin = -1
+            tmax = 1
+            dt = 0.02
+            mmin = -2
+            mmax = 0
+            dm = 0.1
+            

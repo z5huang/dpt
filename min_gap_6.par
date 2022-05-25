@@ -1,0 +1,14 @@
+
+            p = 1
+            q = 3
+            nx = 600
+            ny = 2
+            tmin = 0.26
+            tmax = 0.28
+            dt = 0.001
+            mmin = 0.01
+            mmax = 0.04
+            dm = 0.002
+            tolerance = 1e-06
+            zone = 1
+            

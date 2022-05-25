@@ -1,0 +1,12 @@
+
+            p = 1
+            q = 3
+            nx = 66
+            ny = 2
+            tmin = 0
+            tmax = 4
+            dt = 0.003
+            mmin = 0
+            mmax = 2
+            dm = 0.03
+            

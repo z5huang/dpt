@@ -1,0 +1,14 @@
+
+        nx = 99
+        ny = 1
+        kxfrac = 1
+        kyfrac = 1
+        q  = 3
+        p_ii = 1
+        t_ii = 0
+        p_f = 1
+        t_f = 0
+        m_i = 0
+        m_f = 1000
+        bidx = 0
+        

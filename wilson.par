@@ -1,0 +1,13 @@
+
+        nx = 100
+        ny = 400
+        ny0 = 1
+        pi = 1
+        pf = 1
+        q = 4
+        ti = 0
+        tf = -1
+        ky00 = 0
+        smooth_twist = 1
+        end_with_u1 = 1
+        

@@ -1,0 +1,12 @@
+
+            p = 1
+            q = 3
+            nx_premin = 100
+            ny = 2
+            tmin = 0
+            tmax = 4
+            dt = 0.01
+            mmin = 0
+            mmax = 6
+            dm = 0.1
+            
